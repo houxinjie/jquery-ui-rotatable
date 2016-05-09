@@ -1,0 +1,25 @@
+{
+    "name": "transform",
+    "version": "1.0.0",
+    "title": "Enable rotate transformation",
+    "author": {
+        "name": "Louis-Rémi",
+        "url": "http://twitter.com/louis_remi"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.4.3",
+        "transition": "*"
+    },
+    "description": "",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/godswearhats/jquery-ui-rotatable",
+    "files": [
+      jquery.ui.rotatable.min.js
+    ]
+}
